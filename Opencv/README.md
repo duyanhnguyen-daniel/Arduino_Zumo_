@@ -1,3 +1,9 @@
+
+New method
+```
+Run file **InstallOpenCv.sh** only.
+```
+
 Install OpenCV 4.1.2 on Raspbian Buster
 
 ```bash
